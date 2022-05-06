@@ -1,1 +1,3 @@
 # Cryptocurrencies
+## Overview of Project
+A prominent investment bank is interested in offering a new cryptocurrency investment portfolio for its customers but is not well versed in cryptocurrencies. They've requested a report be created that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. For this project, data is to be processed to fit the machine learning models, unsupervised learning will be used, a clustering algorithm will be used to group the cryptocurrencies and data visualizations will be created for presentation.
